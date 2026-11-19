@@ -1,5 +1,5 @@
 # 🌸 Lotus 🎵 
-Lotus is a client-based **guitar tuner** app. </br>
+Lotus is a terminal-based **guitar tuner** app. </br>
 Built with ♥️ **_Go + Bubbletea + Lipgloss + PortAudio_**.
 
 ## 🎸 Installation
